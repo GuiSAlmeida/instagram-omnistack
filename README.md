@@ -2,7 +2,7 @@
 # **Semana OmniStack [Rocketseat](https://github.com/Rocketseat) - Instarocket App**
 > This repository was created for the case study in the #nodejs, #react, and # react-native stack. Re-creating the application similar to Instagram in the OS Linux.  
 
-![Omnistack](OmniStack.png)
+![Recreate instagram](instagram.jpeg)
 
 # Instructions
 ## __*Prerequisites*__
